@@ -1,3 +1,8 @@
+ #color_4b0082{
+    color:  #4b0082;
+    font-size: 23px;
+}
+
 #color_D50000 {
     color: #D50000;
     font-size: 14px;
@@ -5,6 +10,11 @@
 
 #color_FF1744 {
     color: #FF1744;
+    font-size: 29px;
+}
+
+#color_4DD0E1 {
+    color: #4DD0E1;
     font-size: 19px;
 }
 
@@ -12,3 +22,14 @@
     color: #303F9F;
     font-size: 14px;
 }
+
+#color_1DE9B6 {
+    color: #1DE9B6;
+    font-size: 15px;
+}
+
+#color_E91E63 {
+    color: #E91E63;
+    font-size: 24px;
+}
+
