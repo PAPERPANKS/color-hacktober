@@ -51,7 +51,7 @@
 #color_42A5F5 {
     color: #42A5F5;
     font-size: 21px;
-
+}
 #color_F9D100 {
     color: #F9D100;
     font-size: 40px;
@@ -62,4 +62,7 @@
 	font-size: 16px;
 
 }
-
+#color_B3B3B3 {
+	color: #B3B3B3;
+	font-size: 18px;
+}
