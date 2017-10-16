@@ -2,7 +2,7 @@
 
 A colorful webpage for [hactoberfest](https://hacktoberfest.digitalocean.com/)
 
-> Please read the contribution guide before going for any further process.I will not entertain any pull request which fail to obey all reules describes in `contribution.md`
+> Please read the contribution guide before going for any further process.I will not entertain any pull request which fail to obey any rules described in `contribution.md`
 
 ### Give a ![star][icon] if you like my work :)
 
