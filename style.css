@@ -1,5 +1,5 @@
- #color_4b0082{
-    color:  #4b0082;
+#color_4B0082{
+    color:  #4B0082;
     font-size: 23px;
 }
 
@@ -33,7 +33,7 @@
     font-size: 24px;
 }
 
-#color_4286f4 {
+#color_4286F4 {
     color: #4286F4;
     font-size: 18px;
 }
@@ -48,10 +48,71 @@
     font-size: 32px;
 }
 
+#color_37474F {
+    color: #37474F;
+    font-size: 48px;
+}
+
+#color_A0CC00 {
+  color: #A0CC00;
+  font-size: 40px;
+}
+
+#color_F44336 {
+	color: #F44336;
+	font-size: 15px;
+}
+
+#color_424242 {
+    color: #424242;
+    font-size: 10px;
+}
+
+#color_C5E1A5 {
+    color: #C5E1A5;
+    font-size: 25px;
+}
+
+#color_311B92 {
+	color: #311B92;
+	font-size: 16px;
+}
+
+#color_F9AF44 {
+    color: #f9af44;
+    font-size: 24px;
+}
+
+#color_3B5072 {
+    color: #3B5072;
+    font-size: 22px;
+}
+
+#color_99CCFF {
+  color: #99CCFF;
+  font-size: 69px;
+}
+
+#color_EF5350{
+    color: #EF5350;
+    font-size: 36px;
+}
+
+#color_E65100 {
+    color: #E65100;
+    font-size: 20px;
+}
+
+#color_F8E901 {
+   color: #F8E901;
+   font-size: 17px;
+}
+
 #color_42A5F5 {
     color: #42A5F5;
     font-size: 21px;
 }
+
 #color_F9D100 {
     color: #F9D100;
     font-size: 40px;
@@ -60,8 +121,8 @@
 #color_FF8300 {
 	color: #FF8300;
 	font-size: 16px;
-
 }
+
 #color_B3B3B3 {
 	color: #B3B3B3;
 	font-size: 18px;
