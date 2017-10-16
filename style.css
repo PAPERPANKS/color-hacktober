@@ -1,5 +1,5 @@
- #color_4b0082{
-    color:  #4b0082;
+#color_4B0082{
+    color:  #4B0082;
     font-size: 23px;
 }
 
@@ -33,7 +33,7 @@
     font-size: 24px;
 }
 
-#color_4286f4 {
+#color_4286F4 {
     color: #4286F4;
     font-size: 18px;
 }
@@ -46,6 +46,11 @@
 #color_D500F9 {
     color: #D500F9;
     font-size: 32px;
+}
+
+#color_3B5072 {
+    color: #3B5072;
+    font-size: 22px;
 }
 
 #color_99CCFF {
