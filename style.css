@@ -48,6 +48,11 @@
     font-size: 32px;
 }
 
+#color_E65100 {
+    color: #E65100;
+    font-size: 20px;
+}
+
 #color_F8E901 {
    color: #F8E901;
    font-size: 17px;
@@ -56,6 +61,7 @@
 #color_42A5F5 {
     color: #42A5F5;
     font-size: 21px;
+}
 
 #color_F9D100 {
     color: #F9D100;
@@ -65,6 +71,5 @@
 #color_FF8300 {
 	color: #FF8300;
 	font-size: 16px;
-
 }
   
