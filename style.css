@@ -1,5 +1,19 @@
+p {
+    font-family: sans-serif;
+}
+
+#color_1B8B99 {
+    color: #1B8B99;
+    font-size: 40px;
+}
+
 #color_4B0082{
     color: #4B0082;
+    font-size: 23px;
+}
+
+#color_F06292{
+    color: #F06292;
     font-size: 23px;
 }
 
@@ -46,6 +60,11 @@
 #color_D500F9 {
     color: #D500F9;
     font-size: 32px;
+}
+
+#color_9D854C {
+    color: #9D854C;
+    font-size: 30px;
 }
 
 #color_37474F {
@@ -111,7 +130,7 @@
 #color_42A5F5 {
     color: #42A5F5;
     font-size: 21px;
-}
+}    
 
 #color_F9D100 {
     color: #F9D100;
@@ -128,6 +147,11 @@
     font-size: 45px;
 }
 
+#color_64DD17 {
+	color: #64DD17;
+	font-size: 20px;
+}
+
 #color_B3B3B3 {
 	color: #B3B3B3;
 	font-size: 18px;
@@ -142,3 +166,62 @@
     color: #67E08F;
     font-size: 31px;
 }
+
+#color_BA68C8 {
+  color: #BA68C8;
+  font-size: 10px;
+}
+
+#color_FF80AB {
+    color: #FF80AB;
+    font-size: 18px;
+}
+
+#color_1B5E20 {
+    color: #1B5E20;
+    font-size: 40px;
+}
+
+#color_DC143C {
+    color: #DC143C;
+    font-size: 16px;
+}
+
+#color_00FF00 {
+    color: #00FF00;
+    font-size: 24px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Rye');
+#color_F4511E {
+	color: #F4511E;
+	font-size: 40px;
+	font-family: "Rye", "Times New Roman", serif;
+}
+
+#color_76AF22 {
+    color: #76AF22;
+    font-size: 22px;
+}
+
+#color_F77B1C{
+    color:#F77B1C;
+    font-size: 33px;
+}
+
+#color_D50000 {
+  color : #D50000;
+  font-size : 50px;
+}
+
+#color_90A4AE {
+    color: #90A4AE;
+    font-size: 21px;
+}
+
+#color_7E08EA{
+    color: #7e08ea;
+    font-size: 38px;
+
+}
+
