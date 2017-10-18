@@ -1,6 +1,37 @@
-p {
+@import url('https://fonts.googleapis.com/css?family=Rye');
+
+.holder{
+    padding: 30px;
+    background: radial-gradient(circle, #3241a6 0, #202a6b 120%);    
+}
+
+.holder img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+	border: 4px solid #FF625F;	
+}
+
+.btn-primary{
+    margin-top: 10px;
+    color: #FF625F;
+    background-color : #303E9F;
+    border-radius: 0px;
+    border: 2px solid #FF625F;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+    color: #FFF;
+    background-color: #FF625F;    
+    border-color: #FFF;
+}
+
+span {
     font-family: sans-serif;
 }
+
+/* add new style here */
 
 #color_1B8B99 {
     color: #1B8B99;
@@ -21,10 +52,12 @@ p {
     color: #D50000;
     font-size: 14px;
 }
+
 #color_00ced1{
-color:#00ced1
-font-size: 14px;
+    color:#00ced1;
+    font-size: 14px;
 }
+
 #color_FF1744 {
     color: #FF1744;
     font-size: 29px;
@@ -111,8 +144,8 @@ font-size: 14px;
 }
 
 #color_99CCFF {
-  color: #99CCFF;
-  font-size: 69px;
+    color: #99CCFF;
+    font-size: 69px;
 }
 
 #color_EF5350{
@@ -126,8 +159,8 @@ font-size: 14px;
 }
 
 #color_F8E901 {
-   color: #F8E901;
-   font-size: 17px;
+    color: #F8E901;
+    font-size: 17px;
 }
 
 #color_42A5F5 {
@@ -171,8 +204,8 @@ font-size: 14px;
 }
 
 #color_BA68C8 {
-  color: #BA68C8;
-  font-size: 10px;
+    color: #BA68C8;
+    font-size: 10px;
 }
 
 #color_FF80AB {
@@ -195,7 +228,6 @@ font-size: 14px;
     font-size: 24px;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Rye');
 #color_F4511E {
 	color: #F4511E;
 	font-size: 40px;
@@ -208,13 +240,13 @@ font-size: 14px;
 }
 
 #color_F77B1C{
-    color:#F77B1C;
+    color: #F77B1C;
     font-size: 33px;
 }
 
 #color_D50000 {
-  color : #D50000;
-  font-size : 50px;
+    color: #D50000;
+    font-size: 50px;
 }
 
 #color_90A4AE {
@@ -223,10 +255,10 @@ font-size: 14px;
 }
 
 #color_7E08EA{
-    color: #7e08ea;
+    color: #7E08EA;
     font-size: 38px;
-
 }
+
 #color_88B04B{
     color: #88B04B;
     font-size: 69px;
@@ -234,6 +266,12 @@ font-size: 14px;
 
 #color_86f442{
 	color: #86F442;
-	font-size:38px;
+	font-size: 38px;
 }
+
+#color_009688 {
+    color: #009688;
+    font-size: 24px;
+}
+/* don't add new style here */
 
