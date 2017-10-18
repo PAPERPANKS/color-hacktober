@@ -162,6 +162,11 @@ p {
     font-size: 31px;
 }
 
+#color_D50000 {
+  color : #D50000;
+  font-size : 50px;
+}
+
 #color_90A4AE {
     color: #90A4AE;
     font-size: 21px;
