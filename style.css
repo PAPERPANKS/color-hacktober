@@ -162,6 +162,11 @@ p {
     font-size: 31px;
 }
 
+#color_00FF00 {
+    color: #00FF00;
+    font-size: 24px;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Rye');
 #color_F4511E {
 	color: #F4511E;
