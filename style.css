@@ -162,6 +162,13 @@ p {
     font-size: 31px;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Rye');
+#color_F4511E {
+	color: #F4511E;
+	font-size: 40px;
+	font-family: "Rye", "Times New Roman", serif;
+}
+
 #color_76AF22 {
     color: #76AF22;
     font-size: 22px;
