@@ -162,6 +162,11 @@ p {
     font-size: 31px;
 }
 
+#color_FF80AB {
+    color: #FF80AB;
+    font-size: 18px;
+}
+
 #color_1B5E20 {
     color: #1B5E20;
     font-size: 40px;
@@ -209,3 +214,4 @@ p {
     font-size: 38px;
 
 }
+
