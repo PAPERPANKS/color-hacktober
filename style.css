@@ -265,8 +265,8 @@ span {
 }
 
 #color_86f442{
-	color: #86F442;
-	font-size: 38px;
+    color: #86F442;
+    font-size: 38px;
 }
 
 #color_009688 {
@@ -275,8 +275,19 @@ span {
 }
 
 #color_66CCFF {
-  color: #66CCFF;
-  font-size: 22px;
+    color: #66CCFF;
+    font-size: 22px;
 }
+
+#color_8BC34A {
+    color: #8BC34A;
+    font-size: 34px;
+}
+
+#color_55AC8F {
+    color: #55AC8F;
+    font-size: 34px;
+}
+
 /* don't add new style here */
 
