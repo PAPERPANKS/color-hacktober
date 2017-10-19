@@ -265,13 +265,18 @@ span {
 }
 
 #color_86f442{
-	color: #86F442;
-	font-size: 38px;
+    color: #86F442;
+    font-size: 38px;
 }
 
 #color_009688 {
     color: #009688;
     font-size: 24px;
+}
+
+#color_66CCFF {
+    color: #66CCFF;
+    font-size: 22px;
 }
 
 #color_8BC34A {
