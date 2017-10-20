@@ -74,6 +74,11 @@ span {
     font-size: 14px;
 }
 
+#color_CC2C00 {
+	color: #CC2C00;
+	font-size: 18px;
+}
+
 #color_1DE9B6 {
     color: #1DE9B6;
     font-size: 15px;
@@ -296,6 +301,10 @@ span {
     color: #55AC8F;
     font-size: 34px;
 }
+#color_B71C1C {
+    color: #B71C1C;
+    font-size: 45px;
+}
 
 #color_364F6B {
   color: #364F6B;
@@ -303,4 +312,21 @@ span {
   font-family: 'Comfortaa', cursive;
   font-weight: 700;
 }
+
+#color_EC407A {
+    color: #EC407A;
+    font-size: 23px;
+}
+
+#color_8BCCFF {
+    color: #8BCCFF;
+    font-size: 34px;
+}
+
+#color_F57F17{
+    color: #F57F17;
+    font-size: 44px;
+
+}
+
 /* don't add new style here */
