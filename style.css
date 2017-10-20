@@ -306,10 +306,16 @@ font-size: 45px;
     font-size: 34px;
 }
 
+#color_FF8F00 {
+	color: #FF8F00;
+	font-size: 18px;
+}
+
 #color_E65100 {
     color: #E65100;
     font-size: 38px;
 }
+
 /* don't add new style here */
 
 #color_B71C1C {
