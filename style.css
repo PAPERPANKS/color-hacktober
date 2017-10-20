@@ -300,6 +300,12 @@ span {
     color: #55AC8F;
     font-size: 34px;
 }
+
+#color_EC407A {
+    color: #EC407A;
+    font-size: 23px;
+}
+
 #color_8BCCFF {
     color: #8BCCFF;
     font-size: 34px;
@@ -308,6 +314,7 @@ span {
 #color_F57F17{
     color: #F57F17;
     font-size: 44px;
+
 }
 
 /* don't add new style here */
