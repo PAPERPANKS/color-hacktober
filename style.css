@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rye');
-@@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
 
 .holder{
     padding: 30px;
@@ -301,6 +301,13 @@ span {
     color: #55AC8F;
     font-size: 34px;
 }
+
+#color_E65100 {
+    color: #E65100;
+    font-size: 38px;
+}
+/* don't add new style here */
+
 #color_B71C1C {
     color: #B71C1C;
     font-size: 45px;
