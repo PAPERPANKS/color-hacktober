@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rye');
+@@import url('https://fonts.googleapis.com/css?family=Comfortaa');
 
 .holder{
     padding: 30px;
@@ -303,6 +304,13 @@ span {
 #color_B71C1C {
     color: #B71C1C;
     font-size: 45px;
+}
+
+#color_364F6B {
+  color: #364F6B;
+  font-size: 50px;
+  font-family: 'Comfortaa', cursive;
+  font-weight: 700;
 }
 
 #color_EC407A {
