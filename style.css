@@ -33,6 +33,11 @@ span {
 }
 
 /* add new style here */
+#color_27AE60{
+color:#27AE60;
+font-size:35px;
+}
+
 #color_4DD0E1{
 color : #4DD0E1;
 font-size: 45px;
@@ -344,6 +349,21 @@ font-size: 45px;
     color: #F57F17;
     font-size: 44px;
 
+}
+#color_795548{
+    color: #795548;
+    font-size: 46px;
+}
+
+#color_3E2723{
+    color:#3E2723;
+    font-size: 65px;
+    font-family: 'Lucidatypewriter','monospace';
+}
+
+#color_003B6F {
+    color: #003B6F;
+    font-size: 10px;
 }
 
 #color_FF5A5F{
