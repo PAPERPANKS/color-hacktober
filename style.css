@@ -391,4 +391,10 @@ span {
     font-size: 25px;
 }
 
+#color_FF6400{
+    color: #FF6400;
+    font-size: 30px;
+    font-family: 'Aclonica'
+}
+
 /* don't add new style here */
