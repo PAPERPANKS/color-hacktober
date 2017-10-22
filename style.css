@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Rye');
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
 
 .holder{
@@ -256,6 +257,7 @@ span {
 	font-family: "Rye", "Times New Roman", serif;
 }
 
+
 #color_76AF22 {
     color: #76AF22;
     font-size: 22px;
@@ -378,8 +380,15 @@ span {
     font-size: 40px;
 }
 
+#color_491809 {
+	color: #491809;
+	font-size: 45px;
+	font-family: 'Indie Flower', cursive;
+}
+
 #color_FF3D00{
     color: #FF3D00;
     font-size: 25px;
 }
+
 /* don't add new style here */
