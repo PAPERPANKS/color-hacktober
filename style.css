@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Rye');
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
 
 .holder{
     padding: 30px;
@@ -33,6 +34,12 @@ span {
 }
 
 /* add new style here */
+#color_1E88E5{
+    color:#1E88E5;
+    font-size: 54px;
+    font-family: 'Playfair Display', serif;
+}
+
 #color_27AE60{
     color: #27AE60;
     font-size: 35px;
