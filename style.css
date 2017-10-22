@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Rye');
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
-
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
 
 .holder{
     padding: 30px;
@@ -35,6 +35,12 @@ span {
 }
 
 /* add new style here */
+#color_1E88E5{
+    color:#1E88E5;
+    font-size: 54px;
+    font-family: 'Playfair Display', serif;
+}
+
 #color_27AE60{
     color: #27AE60;
     font-size: 35px;
@@ -378,6 +384,11 @@ span {
 	color: #491809;
 	font-size: 45px;
 	font-family: 'Indie Flower', cursive;
+}
+
+#color_FF3D00{
+    color: #FF3D00;
+    font-size: 25px;
 }
 
 /* don't add new style here */
