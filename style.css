@@ -40,6 +40,18 @@ span {
     padding-right: 5px;
 }
 
+@media screen and (min-width: 680px) {
+    .holder img {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .holder {
+        padding: 10px;
+    }
+}
+
 /* add new style here */
 #color_63A4FF{
     color: #63A4FF;
