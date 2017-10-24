@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 
 .holder{
     padding: 30px;
@@ -418,6 +419,12 @@ span {
     color: #FF6400;
     font-size: 30px;
     font-family: 'Aclonica'
+}
+
+#color_1B5E20{
+  color: #1B5E20;
+  font-size: 20px;
+  font-family:  'Oswald', sans-serif;
 }
 
 /* don't add new style here */
