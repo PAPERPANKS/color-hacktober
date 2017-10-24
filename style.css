@@ -419,5 +419,9 @@ span {
     font-size: 30px;
     font-family: 'Aclonica'
 }
+#color_F44336{
+    color: #F44336;
+    font-size: 45px;
+}
 
 /* don't add new style here */
