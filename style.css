@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:800');
 
 .holder{
     padding: 30px;
@@ -418,6 +419,13 @@ span {
     color: #FF6400;
     font-size: 30px;
     font-family: 'Aclonica'
+
+}
+
+#color_263238{
+    color: #263238;
+    font-size: 64px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* don't add new style here */
