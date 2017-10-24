@@ -419,5 +419,9 @@ span {
     font-size: 30px;
     font-family: 'Aclonica'
 }
-
+#color_3F51B5{
+  color:#3F51B5;
+  font-size: 35px;
+  font-family: fantasy;
+}
 /* don't add new style here */
