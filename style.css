@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
+@import url('https://fonts.googleapis.com/css?family=Amaranth');
 
 .holder{
     padding: 30px;
@@ -59,6 +60,14 @@ span {
     font-size: 42px;
     font-family: monospace;
 }
+
+#color_FB8C00 {
+	color: #FB8C00;
+	font-size: 48px;
+	font-family: 'Amaranth', sans-serif;
+	text-transform: uppercase;
+}
+
 #color_63A4FF{
     color: #63A4FF;
     font-size: 42px;
