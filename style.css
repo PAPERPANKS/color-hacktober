@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rye');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
@@ -53,6 +54,11 @@ span {
 }
 
 /* add new style here */
+#color_009966{
+    color: #009966;
+    font-size: 72px;
+    font-family: 'Pacifico', cursive;    
+}
 #color_63A4FF{
     color: #63A4FF;
     font-size: 42px;
