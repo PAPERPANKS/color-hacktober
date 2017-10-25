@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:800');
 @import url('https://fonts.googleapis.com/css?family=Amaranth');
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
 
 .holder {
     padding: 30px;
@@ -476,4 +477,10 @@ span {
     color: #B7196B;
     font-size: 45px;
     font-family: 'Verdana'
+}
+#color_4AFF00 {
+    color: #4AFF00;
+    font-size: 75px;
+    font-family: 'Audiowide'
+    text-align:center;
 }
