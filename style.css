@@ -54,6 +54,13 @@ span {
 }
 
 /* add new style here */
+
+#color_CF0033{
+    color: #CF0033;
+    font-size: 42px;
+    font-family: monospace;
+}
+
 #color_FB8C00 {
 	color: #FB8C00;
 	font-size: 48px;
