@@ -435,7 +435,13 @@ span {
     font-family: 'Aclonica'
 }
 
-#color_B7196B{
+#color_3F51B5 {
+  color:#3F51B5;
+  font-size: 35px;
+  font-family: 'Comfortaa', fantasy;
+}
+
+#color_B7196B {
     color: #B7196B;
     font-size: 45px;
     font-family: 'Verdana'
