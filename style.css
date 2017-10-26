@@ -480,6 +480,7 @@ span {
     font-size: 45px;
     font-family: 'Verdana'
 }
+
 #color_4AFF00 {
     color: #4AFF00;
     font-size: 75px;
@@ -490,4 +491,10 @@ span {
     color: #657776;
     font-size: 36px;
     font-family: 'Open Sans', sans-serif;
+}
+
+#color_AA00FF {
+    color: #AA00FF;
+    font-size: 20px;
+
 }
