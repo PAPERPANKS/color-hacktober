@@ -7,6 +7,7 @@
 @import url('https://fonts.googleapis.com/css?family=Amaranth');
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Kalam');
 
 
 .holder {
@@ -59,6 +60,11 @@ span {
 }
 
 /* add new style here */
+#color_ACACAC {
+    color: #ACACAC;
+    font-size: 36px;
+    font-family: 'Kalam', cursive;
+}
 
 #color_03A9F4 {
 	color: #03A9F4;
