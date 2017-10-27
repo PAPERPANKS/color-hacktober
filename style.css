@@ -496,7 +496,16 @@ span {
 #color_AA00FF {
     color: #AA00FF;
     font-size: 20px;
+}
 
+#color_FF4081 {
+    color: #FF4081;
+    font-size: 18px;
+    font-family: Georgia, serif;
+}
+#color_FFAB00{
+    color:#FFAB00;
+    font-size:21px;
 }
 #color_303F9F {
     color: #303F9F;
