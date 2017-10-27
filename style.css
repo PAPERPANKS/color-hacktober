@@ -59,6 +59,10 @@ span {
 }
 
 /* add new style here */
+#color_00FFFF {
+	color: #00FFFF;
+	font-size: 24px;
+}
 
 #color_03A9F4 {
 	color: #03A9F4;
