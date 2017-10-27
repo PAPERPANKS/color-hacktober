@@ -6,6 +6,9 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:800');
 @import url('https://fonts.googleapis.com/css?family=Amaranth');
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Kalam');
+
 
 .holder {
     padding: 30px;
@@ -57,6 +60,11 @@ span {
 }
 
 /* add new style here */
+#color_ACACAC {
+    color: #ACACAC;
+    font-size: 36px;
+    font-family: 'Kalam', cursive;
+}
 
 #color_03A9F4 {
 	color: #03A9F4;
@@ -482,8 +490,36 @@ span {
     font-size: 45px;
     font-family: 'Verdana'
 }
+
 #color_4AFF00 {
     color: #4AFF00;
     font-size: 75px;
     font-family: 'Audiowide'
 }
+
+#color_657776 {
+    color: #657776;
+    font-size: 36px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#color_AA00FF {
+    color: #AA00FF;
+    font-size: 20px;
+}
+
+#color_FF4081 {
+    color: #FF4081;
+    font-size: 18px;
+    font-family: Georgia, serif;
+}
+#color_FFAB00{
+    color:#FFAB00;
+    font-size:21px;
+}
+#color_303F9F {
+    color: #303F9F;
+    font-size: 20px;
+
+}
+
