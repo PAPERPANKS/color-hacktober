@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Kalam');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 
 
 .holder {
@@ -519,3 +520,8 @@ span {
 
 }
 
+#color_78909C{
+    color: #78909C;
+    font-size: 82px;
+    font-family: 'Abril Fatface', cursive;
+}
