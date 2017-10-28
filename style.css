@@ -528,11 +528,11 @@ span {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-image: -webkit-gradient(linear,  left top,  right bottom,
-    color-stop(0.00, red),
-    color-stop(16%, orange),
-    color-stop(32%, yellow),
-    color-stop(48%, green),
-    color-stop(60%, blue),
-    color-stop(76%, indigo),
-    color-stop(1.00, violet));
+    color-stop(0.00, #BF360C),
+    color-stop(16%, #FFB300),
+    color-stop(32%, #FFF176),
+    color-stop(48%, #4CAF50),
+    color-stop(60%, #536DFE),
+    color-stop(76%, #6A1B9A),
+    color-stop(1.00, #EA80FC));
 }
