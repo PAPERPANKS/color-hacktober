@@ -57,6 +57,12 @@ span {
 
 /* add new style here */
 
+#color_A3C2C2 {
+        color: #A3C2C2;
+        font-size: 30px;
+        font-family: 'Rye', serif;
+}
+
 #color_03A9F4{
 	color: #03A9F4;
 	font-size: 24px;
