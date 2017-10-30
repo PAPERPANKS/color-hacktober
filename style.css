@@ -528,8 +528,13 @@ span {
 
 }
 
+#color_FFAB11 {
+    color: #FFAB11;
+    font-size: 29px;
+    font-family: 'Open Sans', sans-serif;
+}
+
 #color_46FCC2 {
     color: #46FCC2;
     font-size: 16px;
 }
-
