@@ -88,6 +88,10 @@ span {
     color: #63A4FF;
     font-size: 42px;
 }
+#color_F44336{
+	color: #F44336;
+	font-size:45px;
+}
 
 #color_1E88E5 {
     color: #1E88E5;
@@ -523,5 +527,10 @@ span {
     color: #81D4FA;
     font-size: 17px;
 
+}
+
+#color_46FCC2 {
+    color: #46FCC2;
+    font-size: 16px;
 }
 
