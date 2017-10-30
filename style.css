@@ -60,6 +60,11 @@ span {
 }
 
 /* add new style here */
+#color_910037 {
+    color: #910037;
+    font-size: 32px;
+}
+
 #color_ACACAC {
     color: #ACACAC;
     font-size: 36px;
@@ -527,4 +532,9 @@ span {
     color: #FFAB11;
     font-size: 29px;
     font-family: 'Open Sans', sans-serif;
+}
+
+#color_46FCC2 {
+    color: #46FCC2;
+    font-size: 16px;
 }
