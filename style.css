@@ -8,7 +8,7 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Kalam');
-
+@import url('https://fonts.google.com/specimen/Lobster');
 
 .holder {
     padding: 30px;
@@ -60,6 +60,11 @@ span {
 }
 
 /* add new style here */
+#color_E53935{
+    color: #E53935;
+    font-family: 'Lobster',sans-serif;
+    font-size: 40px;
+}
 #color_910037 {
     color: #910037;
     font-size: 32px;
