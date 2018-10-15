@@ -60,6 +60,11 @@ span {
 }
 
 /* add new style here */
+#color_37474F{
+    color: #37474F;
+    font-family: Georgia, serif;
+}
+
 #color_910037 {
     color: #910037;
     font-size: 32px;
@@ -537,4 +542,5 @@ span {
     color: #FFFFFF;
     font-size: 16px;
 }
+
 
