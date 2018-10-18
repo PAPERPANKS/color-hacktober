@@ -60,6 +60,11 @@ span {
 }
 
 /* add new style here */
+#color_910037 {
+    color: #910037;
+    font-size: 32px;
+}
+
 #color_ACACAC {
     color: #ACACAC;
     font-size: 36px;
@@ -393,6 +398,11 @@ span {
     font-size: 45px;
 }
 
+#color_5f708c {
+   color: #5f708c;
+   font-size: 2em;
+}
+
 #color_364F6B {
     color: #364F6B;
     font-size: 50px;
@@ -523,16 +533,12 @@ span {
 
 }
 
-#color_rainbow {
-    font-size: 45px;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-image: -webkit-gradient(linear,  left top,  right bottom,
-    color-stop(0.00, #BF360C),
-    color-stop(16%, #FFB300),
-    color-stop(32%, #FFF176),
-    color-stop(48%, #4CAF50),
-    color-stop(60%, #536DFE),
-    color-stop(76%, #6A1B9A),
-    color-stop(1.00, #EA80FC));
+#color_46FCC2 {
+    color: #46FCC2;
+    font-size: 16px;
+}
+
+#color_FFFFFF {
+    color: #FFFFFF;
+    font-size: 16px;
 }
