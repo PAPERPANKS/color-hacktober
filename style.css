@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Kalam');
+@import url('https://fonts.googleapis.com/css?family=Kodchasan');
 
 
 .holder {
@@ -543,3 +544,9 @@ span {
     font-size: 16px;
 }
 
+#color_673AB7 {
+    color: #673AB7;
+    font-size: 24px;
+    font-style: italic;
+    font-family: 'Kodchasan', sans-serif;
+}
