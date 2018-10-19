@@ -55,6 +55,11 @@ span {
 
 /* add new style here */
 
+#color_C0C0C1{
+    color: #c0c0c1;
+    font-size: 40px;
+}
+
 #color_CF0033{
     color: #CF0033;
     font-size: 42px;
