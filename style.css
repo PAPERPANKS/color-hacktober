@@ -2,9 +2,15 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:800');
 @import url('https://fonts.googleapis.com/css?family=Amaranth');
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Kalam');
 
-.holder{
+
+.holder {
     padding: 30px;
     background: radial-gradient(circle, #3241A6 0, #202A6B 120%);
 }
@@ -18,7 +24,7 @@
 	border: 4px solid #FF625F;
 }
 
-.btn-primary{
+.btn-primary {
     margin-top: 10px;
     color: #FF625F;
     background-color : #303E9F;
@@ -54,13 +60,28 @@ span {
 }
 
 /* add new style here */
+#color_910037 {
+    color: #910037;
+    font-size: 32px;
+}
+
 
 #color_C0C0C1{
     color: #c0c0c1;
     font-size: 40px;
 }
+#color_ACACAC {
+    color: #ACACAC;
+    font-size: 36px;
+    font-family: 'Kalam', cursive;
+}
 
-#color_CF0033{
+#color_03A9F4 {
+	color: #03A9F4;
+	font-size: 24px;
+}
+
+#color_CF0033 {
     color: #CF0033;
     font-size: 42px;
     font-family: monospace;
@@ -73,23 +94,27 @@ span {
 	text-transform: uppercase;
 }
 
-#color_63A4FF{
+#color_63A4FF {
     color: #63A4FF;
     font-size: 42px;
 }
+#color_F44336{
+	color: #F44336;
+	font-size:45px;
+}
 
-#color_1E88E5{
+#color_1E88E5 {
     color: #1E88E5;
     font-size: 54px;
     font-family: 'Playfair Display', serif;
 }
 
-#color_27AE60{
+#color_27AE60 {
     color: #27AE60;
     font-size: 35px;
 }
 
-#color_4DD0E1{
+#color_4DD0E1 {
     color: #4DD0E1;
     font-size: 45px;
 }
@@ -99,12 +124,12 @@ span {
     font-size: 40px;
 }
 
-#color_4B0082{
+#color_4B0082 {
     color: #4B0082;
     font-size: 23px;
 }
 
-#color_F06292{
+#color_F06292 {
     color: #F06292;
     font-size: 23px;
 }
@@ -114,7 +139,7 @@ span {
     font-size: 14px;
 }
 
-#color_00CED1{
+#color_00CED1 {
     color:#00CED1;
     font-size: 14px;
 }
@@ -214,7 +239,7 @@ span {
     font-size: 69px;
 }
 
-#color_EF5350{
+#color_EF5350 {
     color: #EF5350;
     font-size: 36px;
 }
@@ -306,7 +331,7 @@ span {
     font-size: 22px;
 }
 
-#color_F77B1C{
+#color_F77B1C {
     color: #F77B1C;
     font-size: 33px;
 }
@@ -321,17 +346,17 @@ span {
     font-size: 21px;
 }
 
-#color_7E08EA{
+#color_7E08EA {
     color: #7E08EA;
     font-size: 38px;
 }
 
-#color_88B04B{
+#color_88B04B {
     color: #88B04B;
     font-size: 69px;
 }
 
-#color_86F442{
+#color_86F442 {
     color: #86F442;
     font-size: 38px;
 }
@@ -373,11 +398,14 @@ span {
     font-size: 38px;
 }
 
-/* don't add new style here */
-
 #color_B71C1C {
     color: #B71C1C;
     font-size: 45px;
+}
+
+#color_5f708c {
+   color: #5f708c;
+   font-size: 2em;
 }
 
 #color_364F6B {
@@ -397,17 +425,17 @@ span {
     font-size: 34px;
 }
 
-#color_F57F17{
+#color_F57F17 {
     color: #F57F17;
     font-size: 44px;
 
 }
-#color_795548{
+#color_795548 {
     color: #795548;
     font-size: 46px;
 }
 
-#color_3E2723{
+#color_3E2723 {
     color:#3E2723;
     font-size: 65px;
     font-family: 'Lucidatypewriter','monospace';
@@ -418,9 +446,14 @@ span {
     font-size: 10px;
 }
 
-#color_FF5A5F{
+#color_FF5A5F {
     color: #FF5A5F;
     font-size: 40px;
+}
+
+#color_F0F0F0 {
+    color: #F0F0F0;
+    font-size: 31px;
 }
 
 #color_491809 {
@@ -429,17 +462,34 @@ span {
 	font-family: 'Indie Flower', cursive;
 }
 
-#color_FF3D00{
+#color_FF3D00 {
     color: #FF3D00;
     font-size: 25px;
 }
 
-#color_FF6400{
+#color_FF6400 {
     color: #FF6400;
     font-size: 30px;
     font-family: 'Aclonica'
+
 }
-#color_000000{
+#color_F44336 {
+    color: #F44336;
+    font-size: 45px;
+}
+
+#color_1B5E20 {
+  color: #1B5E20;
+  font-size: 20px;
+  font-family:  'Oswald', sans-serif;
+}
+
+#color_263238 {
+    color: #263238;
+    font-size: 64px;
+    font-family: 'Montserrat', sans-serif;
+}
+#color_000000 {
     color: #000000;
     font-size: 50px;
 }
@@ -455,4 +505,46 @@ span {
     font-size: 45px;
     font-family: 'Verdana'
 }
-/* don't add new style here */
+
+#color_4AFF00 {
+    color: #4AFF00;
+    font-size: 75px;
+    font-family: 'Audiowide'
+}
+
+#color_657776 {
+    color: #657776;
+    font-size: 36px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#color_AA00FF {
+    color: #AA00FF;
+    font-size: 20px;
+}
+
+#color_FF4081 {
+    color: #FF4081;
+    font-size: 18px;
+    font-family: Georgia, serif;
+}
+#color_FFAB00{
+    color:#FFAB00;
+    font-size:21px;
+}
+#color_303F9F {
+    color: #303F9F;
+    font-size: 20px;
+
+}
+
+#color_46FCC2 {
+    color: #46FCC2;
+    font-size: 16px;
+}
+
+#color_FFFFFF {
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
