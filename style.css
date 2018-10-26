@@ -60,6 +60,13 @@ span {
 }
 
 /* add new style here */
+#color_AD1457 {
+    color: #AD1457;
+    font-size: 48px;
+    font-family: Rye, serif;
+	text-transform: uppercase;
+}
+
 #color_910037 {
     color: #910037;
     font-size: 32px;
@@ -542,4 +549,3 @@ span {
     color: #FFFFFF;
     font-size: 16px;
 }
-
