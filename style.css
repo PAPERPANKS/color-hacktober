@@ -60,6 +60,11 @@ span {
 }
 
 /* add new style here */
+#color_F0FFEE {
+	color: #F0FFEE;
+	font-size: 48px;
+}
+
 #color_910037 {
     color: #910037;
     font-size: 32px;
