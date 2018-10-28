@@ -42,6 +42,7 @@ span {
     font-family: sans-serif;
 }
 
+
 .col-md-12 {
     padding-left: 5px;
     padding-right: 5px;
@@ -541,5 +542,11 @@ span {
 #color_FFFFFF {
     color: #FFFFFF;
     font-size: 16px;
+}
+
+#color_B7EAF2 {
+    color: #B7EAF2;
+    font-size: 24px;
+    font-family: 'Indie Flower', cursive;
 }
 
