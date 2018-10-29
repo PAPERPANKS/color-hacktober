@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Kalam');
+@import url('https://fonts.googleapis.com/css?family=Qwigley');
 
 
 .holder {
@@ -60,6 +61,13 @@ span {
 }
 
 /* add new style here */
+
+#color_AAC0AA {
+    color: #AAC0AA;
+    font-size: 36px;
+    font-family: 'Qwigley', cursive;
+}
+
 #color_910037 {
     color: #910037;
     font-size: 32px;
