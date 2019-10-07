@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Kalam');
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
 
 
 .holder {
@@ -63,6 +64,12 @@ span {
 #color_910037 {
     color: #910037;
     font-size: 32px;
+}
+
+#color_660066 {
+    color: #660066;
+    font-size: 32px;
+    font-family: "Dancing-Script"
 }
 
 #color_ACACAC {
